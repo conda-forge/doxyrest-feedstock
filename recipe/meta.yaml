@@ -1,4 +1,4 @@
-{% set version = "2.0.0" %}
+{% set version = "2.1.2" %}
 
 package:
   name: doxyrest
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/vovkos/doxyrest_b/releases/download/doxyrest-{{ version }}/doxyrest-{{ version }}-src.tar.xz
-  sha256: a7e93f0a3b45717440564c8e79929b7cfe39d164ba9b4a7f5ca0f88fc1f8747c
+  sha256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
 
 build:
   number: 0
