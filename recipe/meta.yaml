@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/vovkos/doxyrest_b/releases/download/doxyrest-{{ version }}/doxyrest-{{ version }}-src.tar.xz
-  sha256: e33840faeb2b0509bbe96a6557b74348540efcdaf0563696edc1f50869c619c1
+  sha256: 14a6b8ae38bee552012365f2de0b96cd52d674e0754ca761180332c7859df064
 
 build:
   number: 0
